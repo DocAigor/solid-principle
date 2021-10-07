@@ -4,9 +4,6 @@ namespace SolidIsp
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Welcome to Interface Segregation Principle!");
-        }
+        static void Main(string[] args) => Console.WriteLine("Welcome to Interface Segregation Principle!");
     }
 }
